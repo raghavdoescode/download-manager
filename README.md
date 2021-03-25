@@ -1,7 +1,7 @@
 # Download Manager
 
 ## Why
-Because I don't like using a web browser to download files /s
+Because I don't like using a web browser to download files(s)
 
 ## Installation
 
